@@ -4,7 +4,6 @@ This repo is the implementation of ["Look in Different Views: Multi-Scheme Regre
 
 <table>
     <tr>
-    <td><img src="PaperFigs\Fig1.png" width = "100%" alt="MMOTU"/></td>
     <td><img src="PaperFigs\Fig2.png" width = "100%" alt="DS2Net"/></td>
     </tr>
 </table>
