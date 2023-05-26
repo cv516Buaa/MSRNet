@@ -65,7 +65,7 @@ This repo is the implementation of ["Look in Different Views: Multi-Scheme Regre
 ## Description of MSRNet
 - https://arxiv.org/abs/2208.08078
 
-If you have any question, please discuss with me by sending email to sy2102227@buaa.edu.cn.
+If you have any question, please discuss with me by sending email to lyushuchang@buaa.edu.cn.
 
 If you find this code useful please cite:
 ```
