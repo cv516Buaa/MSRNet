@@ -48,7 +48,7 @@ This repo is the implementation of "Look in Different Views: Multi-Scheme Regres
 
 <table>
     <tr>
-    <td><img src="PaperFigs\result1.png" width = "100%" alt="cell instance segmentation result"/></td>
+    <td><img src="PaperFigs\Fig3.png" width = "100%" alt="cell instance segmentation result"/></td>
     </tr>
 </table>
   
@@ -67,30 +67,9 @@ This repo is the implementation of "Look in Different Views: Multi-Scheme Regres
 
 
 ## Description of MSRNet
-- https://arxiv.org/abs/2208.08078
+- submitted to BHI2023
 
 If you have any question, please discuss with me by sending email to lyushuchang@buaa.edu.cn.
-
-If you find this code useful please cite:
-```
-@misc{https://doi.org/10.48550/arxiv.2208.08078,
-  doi = {10.48550/ARXIV.2208.08078},
-  
-  url = {https://arxiv.org/abs/2208.08078},
-  
-  author = {Li, Menghao and Feng, Wenquan and Lyu, Shuchang and Chen, Lijiang and Zhao, Qi},
-  
-  keywords = {Computer Vision and Pattern Recognition (cs.CV), FOS: Computer and information sciences, FOS: Computer and information sciences},
-  
-  title = {Look in Different Views: Multi-Scheme Regression Guided Cell Instance Segmentation},
-  
-  publisher = {arXiv},
-  
-  year = {2022},
-  
-  copyright = {arXiv.org perpetual, non-exclusive license}
-}
-```
 
 # References
 Many thanks to their excellent works
