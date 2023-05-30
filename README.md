@@ -1,6 +1,6 @@
 # MSRNet
 
-This repo is the implementation of ["Look in Different Views: Multi-Scheme Regression Guided Cell Instance Segmentation"](https://arxiv.org/abs/2208.08078). we refer to  [MMDetection](https://github.com/open-mmlab/mmdetection) to implement cell instance segmentation task. Many thanks to SenseTime and their excellent repos.
+This repo is the implementation of "Look in Different Views: Multi-Scheme Regression Guided Cell Instance Segmentation". we refer to  [MMDetection](https://github.com/open-mmlab/mmdetection) to implement cell instance segmentation task. Many thanks to SenseTime and their excellent repos.
 
 <table>
     <tr>
@@ -14,6 +14,10 @@ This repo is the implementation of ["Look in Different Views: Multi-Scheme Regre
 **CA2.5** consists of 524 fluorescence images of 512×512 size, which contains some severely densely packed cell images with large differences in the brightness. You can access to this dataset from [CA2.5-Net Nuclei Segmentation Framework with a Microscopy Cell Benchmark Collection](https://link.springer.com/chapter/10.1007/978-3-030-87237-3_43).
 
 **The Sartorius Cell Instance Segmentation (SCIS)** is from a Kaggle‘s cell instance segmentation competition recently, which focus on neuronal cell instance segmentation. This dataset consists of a total of 606 images of 520×704 size. You can access to this dataset from [kaggle](https://www.kaggle.com/competitions/sartorius-cell-instance-segmentation/data).
+
+**CPM17** consists of 64 H&E stained histopathology images which contains a total of 7570 annotated nuclear boundaries.
+
+**MoNuSeg** is a challenging multi-organ nuclei segmentation dataset, which contains 30 H&E stained histopathology images of 1000*1000 pixels and 21,623 individual annotated nuclei.
 
 ## MSRNet
 ### Install
